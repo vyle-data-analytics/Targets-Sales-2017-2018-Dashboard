@@ -131,6 +131,6 @@ The extracted data was then imported into PowerBI. Below is a screenshot of the 
 
 ### Dashboard
 
-![image](https://github.com/user-attachments/assets/83bcdb95-5356-4dcd-b8ce-8f5bc23f28e1)
+![image](https://github.com/user-attachments/assets/7c9e7667-a734-41e8-90ea-bb3fbf4e7595)
 
 
